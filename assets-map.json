@@ -1,0 +1,61 @@
+{
+  "videos": {
+    "hero": "ALLMOs.mp4",
+    "header": "Header-Mobile.mp4",
+    "contact": "Contact.mp4",
+    "system": "The SYSTEM-Mobile.mp4",
+    "background": "Universe-animate.mp4",
+    "intro": "Animated-In.mp4"
+  },
+  "images": {
+    "logo": [
+      "LOGO.png",
+      "LOGO 1.png",
+      "LOGO 2.png"
+    ],
+    "hero-banner": [
+      "whay-head.png",
+      "source_LOGO.png"
+    ],
+    "pricing-pack": [
+      "pack-pris.png",
+      "pack-pro.png",
+      "pack-strt.png"
+    ],
+    "projects": [
+      "Modern-T.png",
+      "Momentum-T.png",
+      "Monitor-T.png",
+      "Montage-T.png",
+      "Monetize-T.png",
+      "Motion-T.png"
+    ],
+    "misc": [
+      "arrow.png",
+      "arrow 1.png",
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png"
+    ]
+  },
+  "icons": {
+    "facebook": "brand-facebook.svg",
+    "instagram": "brand-instagram.svg",
+    "linkedin": "brand-linkedin.svg",
+    "whatsapp": "brand-whatsapp.svg",
+    "shield": "shield-code.svg",
+    "user": "user-check.svg",
+    "cpu": "cpu-2.svg",
+    "check": "circle-check.svg",
+    "close": "close.svg"
+  },
+  "meta": {
+    "source": "ALLMO-assets (GitHub)",
+    "version": "1.0.0",
+    "generated": "2025-10-27",
+    "verified": true,
+    "mappingMethod": "size-match / figma-export"
+  }
+}
