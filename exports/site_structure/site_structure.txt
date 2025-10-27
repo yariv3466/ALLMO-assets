@@ -1,0 +1,15 @@
+# Site Structure (Frames → Sections)
+# Home:
+#   - Hero
+#   - Value / Services Cards
+#   - CTA
+# Zystem:
+#   - Steps 1–5
+# Universe:
+#   - Services grid
+#   - Packages
+# Contact:
+#   - Details
+#   - Form
+# Thank You:
+#   - Success

@@ -1,0 +1,4 @@
+# ALLMO Figma Links
+Design: https://www.figma.com/design/vxsfKs2BpznYtFFGk9fed0/Untitled
+Dev Mode: https://www.figma.com/design/vxsfKs2BpznYtFFGk9fed0/Untitled?m=dev
+Prototype: https://www.figma.com/proto/vxsfKs2BpznYtFFGk9fed0/Untitled?node-id=1-2&p=f&t=hLyI9Hhh49plHqSI-1

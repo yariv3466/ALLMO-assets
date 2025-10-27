@@ -1,0 +1,14 @@
+# ALLMO Design Tokens - Colors
+--allmo-primary: hsl(225, 100%, 60%); /* #3866FF */
+--allmo-accent: hsl(190, 100%, 50%); /* #00D0FF */
+--allmo-pink: hsl(330, 100%, 60%); /* #FF3898 */
+--allmo-yellow: hsl(40, 100%, 60%); /* #FFB938 */
+--allmo-green: hsl(125, 100%, 60%); /* #38FF3B */
+--allmo-purple: hsl(285, 100%, 64%); /* #E345FF */
+--allmo-aqua: hsl(160, 100%, 60%); /* #00FFA6 */
+--allmo-red: hsl(0, 100%, 70%); /* #FF6B6B */
+--bg-dark: hsl(0, 0%, 0%);
+--bg-gray: hsl(0, 0%, 12%);
+--text-light: hsl(0, 0%, 96%);
+--text-dark: hsl(0, 0%, 12%);
+--muted: hsl(0, 0%, 85%);

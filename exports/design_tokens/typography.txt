@@ -1,0 +1,16 @@
+# ALLMO Design Tokens - Typography
+--font-family: "Assistant", sans-serif;
+--font-weight-bold: 800;
+--font-weight-semi: 700;
+--font-weight-medium: 600;
+--font-weight-regular: 400;
+
+--font-size-h1: 45px;
+--font-size-h2: 35px;
+--font-size-body: 18px;
+--font-size-caption: 14px;
+--font-size-button: 24px;
+
+--line-height-tight: 120%;
+--line-height-normal: 140%;
+--line-height-relaxed: 150%;

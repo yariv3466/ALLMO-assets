@@ -1,0 +1,5 @@
+# Interactions / Behaviors
+# Header: burger open/close, focus trap, escape to close
+# Videos: single-play (pause others on play)
+# Scroll: route change → scroll to top
+# Buttons: hover/active states per brand color
